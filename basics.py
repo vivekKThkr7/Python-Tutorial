@@ -4,7 +4,7 @@
 ### Python me vairiable ko declare karne ke liye koi ek keyword rakhna parta hai. eg: age = 20, here age is a variable and 20 is a value.
 
 ## Data Types
-# Variables mai j data store hota hai uska ek type hota hai. 
+# Variables mai jo data store hota hai uska ek type hota hai. 
 ### int, float, str, bool
 # int: Integer, whole number
 # float: Decimal number
