@@ -1,4 +1,3 @@
-
 # Functions in Python
 # Functions are reusable pieces of code that perform a specific task.   
 # They help in organizing code, improving readability, and reducing redundancy.
