@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Functions in Python
 # Functions are reusable pieces of code that perform a specific task.   
 # They help in organizing code, improving readability, and reducing redundancy.
@@ -25,3 +26,6 @@
 # def greet(name="World"):
 #     """This function greets the person passed in as a parameter. If no name is provided, it defaults to 'World'."""
 #     print("Hello, " + name + "! How are you today?")    
+=======
+
+>>>>>>> 4ae8e83f1aceb84e5e8fc11076b86e218a975a56
